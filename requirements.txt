@@ -1,0 +1,15 @@
+# API Framework & Server
+fastapi
+uvicorn[standard]
+
+# LLM, Vector DB, and Embeddings
+google-generativeai
+pinecone
+sentence-transformers
+langchain-community
+
+# Data Structures and Document Loading
+pydantic
+python-dotenv
+pypdf
+requests

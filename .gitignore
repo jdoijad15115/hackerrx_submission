@@ -1,0 +1,13 @@
+# Ignore Python's cache
+__pycache__/
+*.pyc
+
+# Ignore the secrets file
+.env
+
+# Ignore the archive folder
+_archive/
+
+# Ignore virtual environment folder
+venv/
+chatbot_env/
